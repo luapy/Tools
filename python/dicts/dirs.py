@@ -1,4 +1,3 @@
-# coding:nbxiglk
 import os
 import sys
 
